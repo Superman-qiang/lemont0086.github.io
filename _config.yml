@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://Superman-qiang.github.io
+url: https://superman-qiang.github.io
 date_format: "ordinal"
 title: Beyond
 subtitle: "超人叔叔"
